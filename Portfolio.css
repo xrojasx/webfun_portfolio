@@ -1,0 +1,124 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+#wrapper{
+    background-color: #5F3D3D;
+    width: 1000px;
+    height: 950px;
+
+}
+#header{
+    background-color: white;
+}
+#subheader1{
+    display: inline-block;
+    margin-left: 20px;
+}
+#subheader2{
+    display: inline-block;
+    float: right;
+    margin-right: 75px;
+    margin-top: 7px;
+    padding-top: 5px;
+}
+#mctopleft img{
+   height: 250px;
+   width: 460px;
+   border: 5px solid gray;
+
+}
+#mctop{
+    margin: 15px;
+}
+#mctopright{
+    display: inline-block;
+    height: 260px;
+    width: 470px;
+    float: right;
+    background-color: white;
+}
+#mctopleft{
+    display: inline-block;
+    height: 250px;
+    width: 400px;
+}
+.graybox{
+    background-color: grey;
+    height: 30px;
+    padding-top: 10px;
+}
+h3{
+    color: white;
+    text-indent: 10px;    
+}
+#mcbottom{
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 800px;
+}
+#mcabout{
+    margin-left: 8px;
+}
+.greybox{
+    background-color: grey;
+    height: 30px;
+    padding-top: 10px;
+}
+#mcbottleft, #mcbottcenter, #mcbottright{
+    width: 310px;
+    height: 600px;
+    display: inline-block;
+    vertical-align: top;
+    background: white;
+    
+}
+#mcbottcenter{
+    margin: 0px 15px 0px 15px;
+}
+#bottrightpic img, #bottleftpic img, #bottcenterpic img{
+    width: 310px;
+    height: 155px;
+}
+#bottlefttext, #bottcentertext, #bottrighttext{
+    margin-left: 8px;
+    margin-right: 3px;
+    padding-bottom: 90px;
+}
+.icon img{
+    width: 45px;
+    height: 45px;
+    margin: 6px;
+}
+#bottlefticons, #bottcentericons, #bottrighticons{
+   padding-top: 8px;
+   margin-left: 4px;
+}
+.button{
+    text-align: center;
+}
+button{
+    height: auto;
+    width: auto;
+    background-color: green;
+    color: white;
+    padding: 2px;
+    border-radius: 7px;
+    font-size: 90%;
+}
+a{
+    color: black;
+}
+#footer{
+    display: block;
+    background: white;
+    text-align: center;
+    margin-top: -175px;
+    font-stretch: inherit;
+    
+}
+#footer img{
+    width: 18px;
+    height: 18px;
+}
